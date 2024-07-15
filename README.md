@@ -1,2 +1,2 @@
 # CustomEscapeScreen
-It's a fully customizable open-source Minecraft resource pack
+It's a fully customizable open-source Minecraft texture pack
